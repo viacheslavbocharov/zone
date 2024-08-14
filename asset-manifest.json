@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2799bc67.css",
+    "main.js": "/static/js/main.9cc0faff.js",
+    "static/media/player.png": "/static/media/player.fed18a0f7935df47e855.png",
+    "static/media/playing-man.png": "/static/media/playing-man.5d706d320dfab1514a54.png",
+    "static/media/working-man.png": "/static/media/working-man.6bbfa369e0d199879458.png",
+    "static/media/alex-sohag.png": "/static/media/alex-sohag.89c67e52e2047f835dc5.png",
+    "static/media/alina-jesia.png": "/static/media/alina-jesia.6456938296726a908966.png",
+    "static/media/afroza-mou.png": "/static/media/afroza-mou.5699aecbf49974aa77f8.png",
+    "static/media/sunny-khan.png": "/static/media/sunny-khan.8d272a4ea2d1439419d3.png",
+    "index.html": "/index.html",
+    "main.2799bc67.css.map": "/static/css/main.2799bc67.css.map",
+    "main.9cc0faff.js.map": "/static/js/main.9cc0faff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2799bc67.css",
+    "static/js/main.9cc0faff.js"
+  ]
+}
